@@ -3,6 +3,8 @@ Simple react native sample using react-native-draftjs-render to better understan
 
 
 
-yarn
+yarn install
+
 react-native run-ios
+
 react-native start
