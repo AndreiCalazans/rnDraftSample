@@ -1,0 +1,129 @@
+{
+  "blocks": [
+      {
+          "key": "6injg",
+          "text": "Big text title",
+          "type": "header-one",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": {
+              "text-align": "center"
+          }
+      },
+      {
+          "key": "bj24g",
+          "text": "followed by some cool text bold and italic and also strikethrough",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [
+              {
+                  "offset": 27,
+                  "length": 5,
+                  "style": "BOLD"
+              },
+              {
+                  "offset": 36,
+                  "length": 29,
+                  "style": "ITALIC"
+              },
+              {
+                  "offset": 52,
+                  "length": 13,
+                  "style": "STRIKETHROUGH"
+              }
+          ],
+          "entityRanges": [],
+          "data": {
+              "text-align": "center"
+          }
+      },
+      {
+          "key": "57n2c",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": {}
+      },
+      {
+          "key": "583ld",
+          "text": "warning color 😍",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [
+              {
+                  "offset": 0,
+                  "length": 15,
+                  "style": "color-rgb(226,80,65)"
+              }
+          ],
+          "entityRanges": [],
+          "data": {}
+      },
+      {
+          "key": "bjlkl",
+          "text": " ",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [
+              {
+                  "offset": 0,
+                  "length": 1,
+                  "key": 0
+              }
+          ],
+          "data": {}
+      },
+      {
+          "key": "83c4v",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": {}
+      },
+      {
+          "key": "faj1r",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": {}
+      },
+      {
+          "key": "adq0i",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": {}
+      },
+      {
+          "key": "1h5jh",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": {}
+      }
+  ],
+  "entityMap": {
+      "0": {
+          "type": "IMAGE",
+          "mutability": "MUTABLE",
+          "data": {
+              "src": "https://cdn0.froala.com/assets/blog/pages/post41-042bca3b17f583de4ef9cafbb20dcad7.svg",
+              "height": "50px",
+              "width": "50px",
+              "alignment": "left"
+          }
+      }
+  }
+}
